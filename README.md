@@ -6,12 +6,6 @@ Projeto desenvolvido com HTML5 e CSS3, apresentando uma página de receita de cu
 
 **Deploy:** https://daniellydev.github.io/Cupcake_de_cafe/
 
-## Preview
-
-![Preview do projeto](./assets/preview.png)
-
-> Substitua `preview.png` pela captura de tela do seu projeto.
-
 ## Sobre o projeto
 
 Este projeto consiste em uma página de receita desenvolvida para praticar conceitos fundamentais de HTML e CSS. A proposta foi criar uma interface simples, organizada e visualmente agradável para apresentação de conteúdo.
